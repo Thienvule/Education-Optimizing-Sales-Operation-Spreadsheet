@@ -38,7 +38,9 @@ Recently, the team launched a new landing page to sell webinar tickets and colle
 ### Linking Ladipage and Sales info
 
 ![image](https://github.com/user-attachments/assets/c38ebb56-ce6c-4531-a294-50c8e7e76a28)
+
 This tab is used to store leads generated from our landing page. Whenever a new lead acquires a ticket or submits their information, the data will be updated accordingly. However, sales team members currently need to manually transfer this information from the LadiPage tab to the Sales Info tab. I plan to utilize ARRAYFORMULA and QUERY to automate this process, allowing the data to flow into the next rows of the Sales Info tab without manual input:
+
 ![image](https://github.com/user-attachments/assets/3a90b97c-1df5-469d-9574-7e4d534adc57)
 
 However, we will not be building anything else in these 2 tabs to avoid direct interaction with the raw data called "Sales". To import data from the raw sheet, I would utilize IMPORTRANGE function:
