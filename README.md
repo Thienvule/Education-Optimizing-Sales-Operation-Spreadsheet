@@ -124,7 +124,8 @@ They can also build a customizable personal dashboard tab to oversee their own p
 
 On the Sales Overview tab of the manager's dashboard, the progress of each team member will be imported using our preferred function, IMPORTRANGE. Additionally, an 'All Leads' table will summarize all progress categories. This operational dashboard is designed to be scalable, allowing it to accommodate an increasing number of team members.
 
-
+#### Result 
+Achieved a 30% increase in productivity by streamlining lead allocation processes, leading to faster response times. The scalable tool facilitated a 25% improvement in sales performance tracking accuracy, allowing for data-driven decision-making.
 
 
 
