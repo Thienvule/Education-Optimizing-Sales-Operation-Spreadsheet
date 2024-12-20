@@ -1,4 +1,4 @@
-# Spreadsheet-CRM-Lead-Automated- Scalable Dashboard
+# Education | Optimizing Sales Operation | Spreadsheet
 
 ## Business Context
 The company is an academy dedicated to training individuals in data skills for careers in data analysis. As the academy expands, the sales manager is encountering difficulties in manually managing the allocation of an increasing number of sales leads. This process was much simpler when there were fewer leads. I have been assigned the task of developing a more efficient solution to enhance the lead allocation process.
